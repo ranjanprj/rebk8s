@@ -1,4 +1,4 @@
-name: Building and pushing a docker image to Amazon ECR
+name: MyJob
 
 on:
   pull_request:
